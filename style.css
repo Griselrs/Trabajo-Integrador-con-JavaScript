@@ -1,0 +1,81 @@
+
+
+#container {
+    margin-top: 1%;
+}
+
+
+
+header {
+    background-color: #403124;
+    color: #d9d2b0;
+    font-family: 'Special Elite', 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 1%;
+}
+
+navbar {
+    font-family: 'Special Elite', 'Montserrat', sans-serif;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #D8CCA3;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: black; 
+        text-align: center;
+        padding: 10px 12px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: #a6937c;
+      }
+
+      article {
+        font-family:'Special Elite', 'Montserrat', sans-serif;
+        color: black;
+        text-align: center;
+        background-image: url("Imagen2.jpeg");
+        height: 700px;
+        background-size: cover;
+      }
+    
+      .container {
+        background-color: #DAE2B6 ;
+        width: 100%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        font-family: 'Special Elite', 'Montserrat', sans-serif;
+        text-align: center;
+        align-self: center;
+        
+      }
+        
+  
+
+    footer {
+        background-color: #87805E;
+        color: black;
+        font-family: 'Special Elite', 'Montserrat', sans-serif;
+        text-align: center;
+        align-items: center;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        
+    }
+    
+    #totalPago {
+      font-size: 1.4rem;
+      font-weight: 700;
+    }
